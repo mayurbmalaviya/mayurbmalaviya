@@ -1,4 +1,4 @@
-## Inroduction about Mayurkumar Malaviya
+## Introduction about Mayurkumar Malaviya
 ### 👋 Hi, I am Mayurkumar Malaviya 
 ### 🔭 I’m intersted to work as a Full Stack developer
 ### 🌱 I’m currently learning ReactJs
